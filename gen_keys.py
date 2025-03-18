@@ -1,6 +1,6 @@
 from web3 import Web3
 from eth_account.messages import encode_defunct
-from eth_ccount import Account
+from eth_account import Account
 import eth_account 
 import os
 
